@@ -1,4 +1,4 @@
-# Daiel G.
+# Daniel G.
 This repository is my repository for my introduction to Software technology class. I will upload different assignments and projects to show off my skills.
 [Daniel G's Portfolio](https://github.com/enteredanamed/ist-portfolio-DanielG0)
 ```
